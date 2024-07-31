@@ -11,12 +11,6 @@
 
 2) Big-O gösterimi
 
-Step 1 -> 0
-Step 2 -> 1
-Step 3 -> 2
-....
-Step n-1 -> n
-
 sum = (n*(n-1))/2 -> (n^2-n)/2 -> O(n^2)
 
 Time Complexity:
