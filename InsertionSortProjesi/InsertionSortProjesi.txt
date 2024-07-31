@@ -9,12 +9,6 @@
 
 2) Big-O gösterimini yazınız.
 
-Step 1 -> n
-Step 2 -> n-1
-Step 3 -> n-2
-....
-Step n-1 -> 1
-
 sum = (n*(n-1))/2 -> O(n^2)
 
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
