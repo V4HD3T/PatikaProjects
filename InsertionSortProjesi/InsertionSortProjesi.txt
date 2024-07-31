@@ -21,7 +21,7 @@ Time Complexity: Average case: Aradığımız sayının ortada olması,Worst cas
 3) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
 Worst Case
 
-4) [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+4) [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
 
 - min=2 -> swap 7 and 2 -> [2, | 3, 5, 8, 7, 9, 4, 15, 6]
 - min=3 -> no need to swap [2, 3, | 5, 8, 7, 9, 4, 15, 6]
