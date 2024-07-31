@@ -14,7 +14,7 @@ Step 2 -> n-1
 Step 3 -> n-2
 Step 4 -> 1
 
-sum = (n*(n-1))/2 -> O(n^2)
+sum = (n*(n-1))/2 -> (n^2+n)/2 -> O(n^2)
 
 Time Complexity: Average case: Aradığımız sayının ortada olması,Worst case: Aradığımız sayının sonda olması, Best case: Aradığımız sayının dizinin en başında olması.
 3) Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
