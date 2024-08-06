@@ -1,4 +1,6 @@
+```text
 [22,27,16,2,18,6] -> Insertion Sort
+```
 `Soru1:` Yukarı verilen dizinin sort türüne göre aşamalarıaşamalarını yazınız.
 ```text
 - First Pass -> [22, | 27, 16, 2, 18, 6]
@@ -12,13 +14,12 @@
 ```text
 sum = (n*(n-1))/2 -> (n^2-n)/2 -> O(n^2)
 ```
+`Soru3:`Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 ```text
 Time Complexity:
 Average case: Aradığımız sayının ortada olması.
 Worst case: Aradığımız sayının sonda olması.
 Best case: Aradığımız sayının dizinin en başında olması.
-```
-`Soru3:`Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 ```
 ```text
 Average case
