@@ -12,10 +12,12 @@
 ```text
 sum = (n*(n-1))/2 -> (n^2-n)/2 -> O(n^2)
 ```
+```text
 Time Complexity:
 Average case: Aradığımız sayının ortada olması.
 Worst case: Aradığımız sayının sonda olması.
 Best case: Aradığımız sayının dizinin en başında olması.
+```
 `Soru3:`Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
 ```text
 Average case
