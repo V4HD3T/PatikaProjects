@@ -19,6 +19,7 @@ Worst case: Aradığımız sayının sonda olması.
 Best case: Aradığımız sayının dizinin en başında olması.
 ```
 `Soru3:`Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer?
+```
 ```text
 Average case
 ```
